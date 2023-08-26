@@ -1,0 +1,181 @@
+2023-08-26 22:26:22,466 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:26:22,567 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:26:22,587 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:26:22,592 - ERROR - Сбой в работе программы: 
+2023-08-26 22:26:22,599 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:26:22,612 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:29:16,605 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:29:16,689 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:29:16,711 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:29:16,715 - ERROR - Сбой в работе программы: 
+2023-08-26 22:29:16,722 - ERROR - Сбой в работе программы: 'NoneType' object is not subscriptable
+2023-08-26 22:29:16,734 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:30:46,539 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:30:46,624 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:30:46,641 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:30:46,642 - ERROR - Сбой в работе программы: 
+2023-08-26 22:30:46,650 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:30:46,656 - ERROR - Сбой в работе программы: 
+2023-08-26 22:30:46,673 - ERROR - Сбой в работе программы: 
+2023-08-26 22:31:58,531 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:31:58,617 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:31:58,631 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:31:58,636 - ERROR - Сбой в работе программы: 
+2023-08-26 22:31:58,643 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:31:58,648 - ERROR - Сбой в работе программы: 
+2023-08-26 22:31:58,664 - ERROR - Сбой в работе программы: 
+2023-08-26 22:32:16,651 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:32:16,738 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:32:16,754 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:32:16,756 - ERROR - Сбой в работе программы: 
+2023-08-26 22:32:16,764 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:32:16,775 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:32:51,473 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:32:51,551 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:32:51,565 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:32:51,568 - ERROR - Сбой в работе программы: 
+2023-08-26 22:32:51,574 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:32:51,584 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:37:06,847 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:37:06,939 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:37:06,962 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:37:06,967 - ERROR - Сбой в работе программы: 
+2023-08-26 22:37:06,973 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:37:06,982 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:39:37,508 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:39:37,574 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:39:37,599 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:39:37,602 - ERROR - Сбой в работе программы: 
+2023-08-26 22:39:37,610 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:39:37,620 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:40:47,758 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:40:47,827 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:40:47,851 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:40:47,855 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:40:47,861 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:40:47,872 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:41:21,488 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:41:21,553 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:41:21,578 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:41:21,581 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:41:21,588 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:41:21,597 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:42:42,858 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:42:42,925 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:42:42,950 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:42:42,953 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:42:42,960 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:42:42,972 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:44:23,830 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:44:23,901 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:44:23,927 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:44:23,930 - ERROR - Сбой в работе программы: 'Нету ключа status в  '
+2023-08-26 22:44:23,936 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:44:23,942 - ERROR - Сбой в работе программы: 'Нету ключа status в  '
+2023-08-26 22:44:23,959 - ERROR - Сбой в работе программы: 'Нету ключа status в  '
+2023-08-26 22:44:45,306 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:44:45,374 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:44:45,399 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:44:45,402 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:44:45,407 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:44:45,418 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:49:59,043 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:49:59,106 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:49:59,109 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:49:59,134 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:49:59,137 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:49:59,145 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:49:59,153 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:50:24,516 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:50:24,584 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:50:24,586 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:50:24,611 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:50:24,616 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:50:24,623 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:50:24,633 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:51:00,985 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:51:00,994 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:51:00,996 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:51:01,049 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:51:01,051 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:51:01,075 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:51:01,079 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:51:01,086 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:51:01,097 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:57:16,829 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:57:16,832 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 22:57:16,833 - ERROR - Нету ключа status в homework
+2023-08-26 22:57:16,834 - ERROR - Нету ключа homework_name в homework
+2023-08-26 22:57:16,839 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:16,840 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:16,897 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:16,898 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:57:16,927 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:57:16,930 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:57:16,937 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:57:16,950 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 22:57:32,518 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:57:32,520 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 22:57:32,520 - ERROR - Нету ключа status в homework
+2023-08-26 22:57:32,522 - ERROR - Нету ключа homework_name в homework
+2023-08-26 22:57:32,524 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:32,592 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:32,594 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:32,607 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:32,610 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:57:32,625 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:57:32,628 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:32,628 - ERROR - Сбой в работе программы: 
+2023-08-26 22:57:32,635 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:57:32,640 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:32,641 - ERROR - Сбой в работе программы: 
+2023-08-26 22:57:32,656 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:32,656 - ERROR - Сбой в работе программы: 
+2023-08-26 22:57:38,049 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 22:57:38,053 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 22:57:38,053 - ERROR - Нету ключа status в homework
+2023-08-26 22:57:38,055 - ERROR - Нету ключа homework_name в homework
+2023-08-26 22:57:38,059 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:38,061 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 22:57:38,116 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 22:57:38,118 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 22:57:38,141 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 22:57:38,146 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:57:38,152 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 22:57:38,168 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 23:02:10,202 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 23:02:10,205 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 23:02:10,205 - ERROR - Нету ключа status в homework
+2023-08-26 23:02:10,206 - ERROR - Нету ключа homework_name в homework
+2023-08-26 23:02:10,210 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 23:02:10,212 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 23:02:10,268 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 23:02:10,270 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 23:02:10,295 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 23:02:10,300 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:02:10,306 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:02:10,318 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 23:08:01,621 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 23:08:01,629 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 23:08:01,629 - ERROR - Нету ключа status в homework
+2023-08-26 23:08:01,632 - ERROR - Нету ключа homework_name в homework
+2023-08-26 23:08:01,639 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 23:08:01,643 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 23:08:01,647 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 23:08:01,650 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 23:08:01,669 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 23:08:01,674 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:08:01,734 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:08:01,751 - ERROR - Сообщение не было отправлено Something wrong
+2023-08-26 23:08:31,339 - ERROR - Ошибка Something wrong в ответе API
+2023-08-26 23:08:31,343 - ERROR - Нету ключа status в homework_verdicts
+2023-08-26 23:08:31,343 - ERROR - Нету ключа status в homework
+2023-08-26 23:08:31,345 - ERROR - Нету ключа homework_name в homework
+2023-08-26 23:08:31,349 - ERROR - Нету ключа homeworks в ответе response
+2023-08-26 23:08:31,352 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 23:08:31,354 - ERROR - Неправильный тип данных в ответе response
+2023-08-26 23:08:31,355 - DEBUG - сообщение было отправлено: Test_message_check
+2023-08-26 23:08:31,373 - CRITICAL - Отсутствует обязательная переменная окружения: 
+2023-08-26 23:08:31,376 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:08:31,424 - ERROR - Сбой в работе программы: argument of type 'NoneType' is not iterable
+2023-08-26 23:08:31,436 - ERROR - Сообщение не было отправлено Something wrong
