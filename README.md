@@ -8,6 +8,7 @@
 ## Технологии
 
 -Python
+
 -python-telegram-bot
 
 ## Как развернуть проект
